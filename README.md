@@ -17,7 +17,7 @@ Paper that I have read
 15. Miyato et al, Spectral Normalization for Generative Adversarial Networks. [Link](https://openreview.net/forum?id=B1QRgziT-)
 16. Sutskever et al, Sequence to Sequence Learning with Neural Networks. [Link](https://arxiv.org/abs/1409.3215) [Slide](https://drive.google.com/file/d/1W2BaUNc5IqaDypNiXcb0MweOtCetUqZm/view)
 17. Cho et al, Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation. [Link](https://www.aclweb.org/anthology/D14-1179) [Slide](https://drive.google.com/file/d/1RYUV3YmPrVoRTujaJ0kt6jyD6-4a8Zie/view)
-18. Badanau et al, Neural Machine Translation by Jointly Learning to Align and Translate. [Link](Neural Machine Translation by Jointly Learning to Align and Translate) [Slide](https://drive.google.com/file/d/1niMR8LX77DnP_iPzjNRauOdz1wjd_eXp/view)
+18. Badanau et al, Neural Machine Translation by Jointly Learning to Align and Translate. [Link](https://drive.google.com/file/d/1niMR8LX77DnP_iPzjNRauOdz1wjd_eXp/view) [Slide](https://drive.google.com/file/d/1niMR8LX77DnP_iPzjNRauOdz1wjd_eXp/view)
 19. Luong et al, Effective Approaches to Attention-based Neural Machine Translation. [Link](https://arxiv.org/abs/1508.04025) [Slide](https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/view)
 20. Greff et al, LSTM: A Search Space Odyssey, [Link](https://arxiv.org/pdf/1503.04069.pdf)
 
