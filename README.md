@@ -31,6 +31,6 @@ Tutorial:
 
 Additional Slides
 ---
-1. Recurrent Neural Network. [Link1](https://drive.google.com/file/d/1Uf9ovCWkW44OR20f4puflLBlN0Nbmkfq/view), [Link2](https://drive.google.com/file/d/1ciYPg1ktTv0Yh730b_7NBZhFjmaOTiq4/view) [Link3](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf) [Link4](http://web.stanford.edu/class/cs224n/lectures/lecture9.pdf)
+1. Recurrent Neural Network. [Link1](https://drive.google.com/file/d/1Uf9ovCWkW44OR20f4puflLBlN0Nbmkfq/view), [Link2](https://drive.google.com/file/d/1ciYPg1ktTv0Yh730b_7NBZhFjmaOTiq4/view), [Link3](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf), [Link4](http://web.stanford.edu/class/cs224n/lectures/lecture9.pdf)
 2. Generative Adversarial Networks. [Link](https://drive.google.com/file/d/1qd9J7RDXh7q6qsncGbmkZ-Wj9W9bOWdh/view?usp=sharing)
 3. Generative Models for Discrete Data - (From the book of Kevin Murphy, chapter 3), [Link](https://drive.google.com/file/d/0BzSLk-72cmWlSklNNVNfaTBrcHM/view?usp=sharing)
