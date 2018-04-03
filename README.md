@@ -1,4 +1,4 @@
-Paper that I Read
+Paper that I have read
 ---
 1. Collobert et al, Natural Language Processing (Almost) from Scratch. [Link](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
 2. Lample et al, Neural Architectures for Named Entity Recognition. [Link](https://arxiv.org/abs/1603.01360)
