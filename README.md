@@ -20,7 +20,7 @@ Paper that I have read
 18. Badanau et al, Neural Machine Translation by Jointly Learning to Align and Translate. [Link](https://drive.google.com/file/d/1niMR8LX77DnP_iPzjNRauOdz1wjd_eXp/view) [Slide](https://drive.google.com/file/d/1niMR8LX77DnP_iPzjNRauOdz1wjd_eXp/view)
 19. Luong et al, Effective Approaches to Attention-based Neural Machine Translation. [Link](https://arxiv.org/abs/1508.04025) [Slide](https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/view)
 20. Greff et al, LSTM: A Search Space Odyssey, [Link](https://arxiv.org/pdf/1503.04069.pdf)
-
+21. Strubell et al, Fast and Accurate Entity Recognition with Iterated Dilated Convolutions, [Link](https://arxiv.org/abs/1702.02098) [Slide](https://drive.google.com/file/d/10kI5PBvHs1iO1CdF_QkTsDsOIOeFRgH_/view?usp=sharing)
 
 
 Tutorial:
