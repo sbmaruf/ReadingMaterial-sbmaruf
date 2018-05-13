@@ -19,7 +19,7 @@
 - Guillaume Lample et al, Word Translation Without Parallel Data. [Link](https://arxiv.org/abs/1710.04087)
 
 ## Domain Adaptation (Total - 3)
- - Ganin et al, Domain-Adversarial Training of Neural Networks. [Link](https://arxiv.org/abs/1505.07818) [Slide](https://drive.google.com/file/d/1qd9J7RDXh7q6qsncGbmkZ-Wj9W9bOWdh/view?usp=sharing)
+ - Ganin et al, Domain-Adversarial Training of Neural Networks. [Link](https://arxiv.org/abs/1505.07818) [Slide1](https://drive.google.com/file/d/1qd9J7RDXh7q6qsncGbmkZ-Wj9W9bOWdh/view?usp=sharing) [Slide2](https://drive.google.com/file/d/1viwV_OUDoLtv2gEkF1o_47aGrCj-DeMS/view?usp=sharing)
  - Tzeng et al, Adversarial Discriminative Domain Adaptation. [link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf) [Slide](https://drive.google.com/file/d/1viwV_OUDoLtv2gEkF1o_47aGrCj-DeMS/view?usp=sharing) 
  - Riccardo et al, Adversarial Feature Augmentation for Unsupervised Domain Adaptation. [Link](https://arxiv.org/abs/1711.08561) [Slide](https://drive.google.com/file/d/1viwV_OUDoLtv2gEkF1o_47aGrCj-DeMS/view?usp=sharing)
 
