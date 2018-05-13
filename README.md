@@ -5,12 +5,12 @@
 
 - Greff et al, LSTM: A Search Space Odyssey, [Link](https://arxiv.org/pdf/1503.04069.pdf)
 
-## Adversary Related Paper (Total - 11)
+## Adversary Related Paper (Total - 10)
 - Goodfellow et al, Generative Adversarial Networks. [Link](https://arxiv.org/abs/1406.2661) [Slide](https://drive.google.com/file/d/1qd9J7RDXh7q6qsncGbmkZ-Wj9W9bOWdh/view?usp=sharing)
 - Arjovsky et al, Wasserstein GAN. [Link](https://arxiv.org/abs/1701.07875)
 - Arjovsky et al, Towards Principled Methods for Training Generative Adversarial Networks. [Link](https://arxiv.org/abs/1701.04862) 
 - Salimans et al, Improved Techniques for Training GANs. [Link](https://arxiv.org/abs/1606.03498)
-- Ganin et al, Domain-Adversarial Training of Neural Networks. [Link](https://arxiv.org/abs/1505.07818) [Slide](https://drive.google.com/file/d/1qd9J7RDXh7q6qsncGbmkZ-Wj9W9bOWdh/view?usp=sharing)
+
 - Miyato et al, Spectral Normalization for Generative Adversarial Networks. [Link](https://openreview.net/forum?id=B1QRgziT-)
 - Zhu et al, (Cycle-GAN) Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. [Link](https://arxiv.org/abs/1703.10593)
 - Zhao et al, Learning Sleep Stages from Radio Signals: A Conditional Adversarial Architecture. [Link](http://sleep.csail.mit.edu/files/rfsleep-paper.pdf) [Slide](https://drive.google.com/file/d/1qd9J7RDXh7q6qsncGbmkZ-Wj9W9bOWdh/view?usp=sharing)
@@ -18,6 +18,10 @@
 - Chen et al, Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification.[Link](https://arxiv.org/abs/1606.01614)
 - Guillaume Lample et al, Word Translation Without Parallel Data. [Link](https://arxiv.org/abs/1710.04087)
 
+## Domain Adaptation (Total - 3)
+ - Ganin et al, Domain-Adversarial Training of Neural Networks. [Link](https://arxiv.org/abs/1505.07818) [Slide](https://drive.google.com/file/d/1qd9J7RDXh7q6qsncGbmkZ-Wj9W9bOWdh/view?usp=sharing)
+ - Tzeng et al, Adversarial Discriminative Domain Adaptation. [link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf) [Slide](https://drive.google.com/file/d/1viwV_OUDoLtv2gEkF1o_47aGrCj-DeMS/view?usp=sharing) 
+ - Riccardo et al, Adversarial Feature Augmentation for Unsupervised Domain Adaptation. [Link](https://arxiv.org/abs/1711.08561) [Slide](https://drive.google.com/file/d/1viwV_OUDoLtv2gEkF1o_47aGrCj-DeMS/view?usp=sharing)
 
 ## NLP Related Paper
 
