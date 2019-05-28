@@ -55,8 +55,6 @@
 - Devlin et al, BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, [Link](https://arxiv.org/abs/1810.04805)
 
 
-
-
 # Tutorial: (Total - 2)
 ---
 - Understanding LSTM Networks. [Link](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
