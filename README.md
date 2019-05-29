@@ -1,10 +1,9 @@
-# Paper that I have read (Total - 23)
----
-
+# Reading lists.
 
 ## Blogs
 1. A Recipe for Training Neural Networks, andrej karpathy.
 2. The Unreasonable Effectiveness of Recurrent Neural Networks, andrej karpathy
+
 ... (Need to list) (TODO)
 
 
