@@ -5,7 +5,8 @@
 2. The Unreasonable Effectiveness of Recurrent Neural Networks, andrej karpathy
 3. Recurrent Neural Network. [Link1](https://drive.google.com/file/d/1Uf9ovCWkW44OR20f4puflLBlN0Nbmkfq/view), [Link2](https://drive.google.com/file/d/1ciYPg1ktTv0Yh730b_7NBZhFjmaOTiq4/view), [Link3](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf), [Link4](http://web.stanford.edu/class/cs224n/lectures/lecture9.pdf)
 4. Chris Olah's blog [Link](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-... (Need to list) (TODO)
+
+... (Need to list a lot) (TODO)
 
 
 ## Contexual Representation
