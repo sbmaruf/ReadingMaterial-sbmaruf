@@ -3,7 +3,8 @@
 ## Blogs
 1. A Recipe for Training Neural Networks, andrej karpathy.
 2. The Unreasonable Effectiveness of Recurrent Neural Networks, andrej karpathy
-
+3. Recurrent Neural Network. [Link1](https://drive.google.com/file/d/1Uf9ovCWkW44OR20f4puflLBlN0Nbmkfq/view), [Link2](https://drive.google.com/file/d/1ciYPg1ktTv0Yh730b_7NBZhFjmaOTiq4/view), [Link3](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf), [Link4](http://web.stanford.edu/class/cs224n/lectures/lecture9.pdf)
+4. Chris Olah's blog [Link](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 ... (Need to list) (TODO)
 
 
@@ -63,12 +64,11 @@
 
 ## RNN
 1. Greff et al, LSTM: A Search Space Odyssey, [Link](https://arxiv.org/pdf/1503.04069.pdf)
-2. Recurrent Neural Network. [Link1](https://drive.google.com/file/d/1Uf9ovCWkW44OR20f4puflLBlN0Nbmkfq/view), [Link2](https://drive.google.com/file/d/1ciYPg1ktTv0Yh730b_7NBZhFjmaOTiq4/view), [Link3](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf), [Link4](http://web.stanford.edu/class/cs224n/lectures/lecture9.pdf)
-3. Chris Olah's blog [Link](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+2. Shen et al, Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks. [link](https://arxiv.org/abs/1810.09536)
 
 
 ## Tree structure
-1. Shen et al, ORDERED NEURONS : INTEGRATING TREE STRUCTURES INTO RECURRENT NEURAL NETWORKS. [link](https://arxiv.org/abs/1810.09536)
+1. Shen et al, Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks. [link](https://arxiv.org/abs/1810.09536)
 
 
 
