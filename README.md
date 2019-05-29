@@ -24,7 +24,7 @@
 
 ## Domain Adaptation
 1. Ganin et al, Domain-Adversarial Training of Neural Networks. [Link](https://arxiv.org/abs/1505.07818) [Slide1](https://drive.google.com/file/d/1qd9J7RDXh7q6qsncGbmkZ-Wj9W9bOWdh/view?usp=sharing) [Slide2](https://drive.google.com/file/d/1viwV_OUDoLtv2gEkF1o_47aGrCj-DeMS/view?usp=sharing)
-2. Tzeng et al, Adversarial Discriminative Domain Adaptation. [link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf) [Slide](https://drive.google.com/file/d/1viwV_OUDoLtv2gEkF1o_47aGrCj-DeMS/view?usp=sharing) 
+2. Tzeng et al, Adversarial Discriminative Domain Adaptation. [Link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf) [Slide](https://drive.google.com/file/d/1viwV_OUDoLtv2gEkF1o_47aGrCj-DeMS/view?usp=sharing) 
 3. Riccardo et al, Adversarial Feature Augmentation for Unsupervised Domain Adaptation. [Link](https://arxiv.org/abs/1711.08561) [Slide](https://drive.google.com/file/d/1viwV_OUDoLtv2gEkF1o_47aGrCj-DeMS/view?usp=sharing)
 
 
@@ -60,15 +60,15 @@
 4. Luong et al, Effective Approaches to Attention-based Neural Machine Translation. [Link](https://arxiv.org/abs/1508.04025) [Slide](https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/view)
 5. Vaswani et al, Attention Is All You Need [Link](https://arxiv.org/abs/1706.03762)
 6. Wu et al, Pay Less Attention with Lightweight and Dynamic Convolutions [Link](https://openreview.net/pdf?id=SkVhlh09tX)
-7. Sennrich et al, Neural Machine Translation of Rare Words with Subword Units. [link](https://www.aclweb.org/anthology/P16-1162)
+7. Sennrich et al, Neural Machine Translation of Rare Words with Subword Units. [Link](https://www.aclweb.org/anthology/P16-1162)
 
 ## RNN
 1. Greff et al, LSTM: A Search Space Odyssey, [Link](https://arxiv.org/pdf/1503.04069.pdf)
-2. Shen et al, Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks. [link](https://arxiv.org/abs/1810.09536)
+2. Shen et al, Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks. [Link](https://arxiv.org/abs/1810.09536)
 
 
 ## Tree structure
-1. Shen et al, Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks. [link](https://arxiv.org/abs/1810.09536)
+1. Shen et al, Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks. [Link](https://arxiv.org/abs/1810.09536)
 
 
 
