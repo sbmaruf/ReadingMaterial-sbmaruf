@@ -13,7 +13,7 @@
 2. Mikolov et al, Distributed Representations of Words and Phrases and their Compositionality [Link](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 3. Lample et al, Word translation without parallel data, [Link](https://arxiv.org/pdf/1710.04087.pdf)
 4. Peters et al, ELMo: Deep contextualized word representations [Link](https://www.aclweb.org/anthology/N18-1202)
-5. Radford et al, Improving language understanding by generative pre-training [Link] (https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+5. Radford et al, Improving language understanding by generative pre-training [Link](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
 6. Devlin et al, BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, [Link](https://arxiv.org/abs/1810.04805)
 
 
